@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <div className="container">
-        <h1 className="section-title">Atlas of Remote Islands</h1>
+        <h1 className="section-title">Max's Atlas of Remote Islands</h1>
       </div>
       
       <div className="container">
